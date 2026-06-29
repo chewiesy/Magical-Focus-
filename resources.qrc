@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fonts/PressStart2P-Regular.ttf</file>
+    </qresource>
+    <qresource prefix="/sprites">
+        <file>sprites/knight.PNG</file>
+        <file>sprites/monk.PNG</file>
+        <file>sprites/witch.PNG</file>
+    </qresource>
+    <qresource prefix="/buttons">
+        <file>buttons/arrow.png</file>
+        <file>buttons/sword.png</file>
+        <file>buttons/arrow1.png</file>
+        <file>background/passive .png</file>
+        <file>background/active.png</file>
+        <file>background/pass.png</file>
+        <file>background/sword2.png</file>
+        <file>background/sword1.png</file>
+        <file>background/sparks2.png</file>
+        <file>background/sparks1.png</file>
+        <file>background/act.png</file>
+        <file>buttons/close1.png</file>
+        <file>buttons/hide1.png</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>background/background.JPG</file>
+        <file>background/frame .png</file>
+        <file>background/back.png</file>
+        <file>background/cool.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>music/fave1.mp3</file>
+        <file>music/fave2.mp3</file>
+        <file>music/fave3.mp3</file>
+    </qresource>
+</RCC>
